@@ -87,6 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - vincentoracla@gmail.com 
 
-Project Link: [https://github.com/your-username/video-processing-ui](https://github.com/your-username/video-processing-ui)
+
+Project Link: [https://github.com/icarus-blue/video-processing-ui](https://github.com/icarus-blue/video-processing-ui)
