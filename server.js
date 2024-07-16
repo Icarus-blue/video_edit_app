@@ -75,6 +75,9 @@ app.get('/api/protected', auth, (req, res) => {
   res.json({ msg: 'This is a protected route' });
 });
 
+app.get('/',()=>{
+  res.json({msg:'server is running well!'})
+})
 // API Endpoints
 app.post('/api/upload', upload.single('video'), (req, res) => {
   if (!req.file) {
